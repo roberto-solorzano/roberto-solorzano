@@ -37,7 +37,21 @@ Customer-focused professional actively transitioning into the information techno
 <details>
 <summary><strong>Course 1: Networking I</strong></summary>
 
-*No labs added yet.*
+Identify the components of a computer and differentiate between various PC form factors.
+Apply foundational IT concepts, software applications, and infrastructure principles to support technology environments.
+**Power Skill - Vision**
+Perform operating system management tasks utilizing built-in Windows administrative tools and features.
+Diagnose and resolve common issues using structured troubleshooting methodologies
+**Power Skill – Focusing & Being in the Moment**
+Implement VPN solutions to enable secure remote access.
+Troubleshoot networking issues using industry-standard diagnostic techniques and tools.
+**Power Skill – Strategic Thinking**
+Deploy Windows Server instances within Microsoft Azure virtual machine environments.
+Create basic PowerShell scripts to automate administrative and operational tasks.
+**Power Skill – Flexibility**
+Recover Windows operating systems using system recovery tools and procedures.
+Diagnose and resolve software-related issues using structured troubleshooting techniques.
+**Power Skill – Innovation & Creativity**
 
 </details>
 
