@@ -42,7 +42,7 @@ Roberto Solorzano
 | Use IP Addressing | Manage the IP configurations of Windows and Linux, manually configure IPv4 settings of Windows 10, configure Dynamic Host Configuration Protocol (DHCP) settings on windows 10, enable talternat configuration for the static IPv4 address of Windows 10, manually configure IPv4 settings on Linux | ✅ Complete | — |
 | Configure  Wireless Accesss Point | connect to a wireless access point and configure its system settings, configure the settings for the wireless service, configure wireless interface settings | ✅ Complete | — |
 | Configure Remote Access | prepare the lab for remote management, connect to remote computers, by using Server Manager, install and configure Microsoft Remote Desktop, establish a Remote Desktop Connection, share access to local folders by using Remote Desktop connection. | ✅ Complete | — |
-| Cpmgifure Remote Desktop Access | enable remote desktopaccess, grant remote access  to a non-administrative user, comfigure remote desktop settings to save Windows Credentials, change screen size color and ratio settings, change connection speed for a remote desktop connection, modify remote desktop server authentication settings | ✅ Complete | — |
+| Configure Remote Desktop Access | enable remote desktop access, grant remote access  to a non-administrative user, comfigure remote desktop settings to save Windows Credentials, change screen size color and ratio settings, change connection speed for a remote desktop connection, modify remote desktop server authentication settings | ✅ Complete | — |
 
 </details>
 
