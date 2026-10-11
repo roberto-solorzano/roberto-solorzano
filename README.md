@@ -4,7 +4,7 @@
 
 
 
-# Hi there, I'm Your Name
+# Hi there, Roberto Solorzano
 
 **Your Name**
 
@@ -24,7 +24,7 @@
 
 ## Skills Learned
 
-*Select skills in the builder to display them here.*
+|Hardware & It Foundations: Identify PC Components, form factors and core infrastructre principles. PowerSkill: Manage Ambiguity | OS Mangement & Networking: Utilize Windows administrative tools and troubleshoot network connectivity. PowerSkill: Drive & Determination | Secure Access & Network Diagnostics: Configure VPN solutions and resolve network issues via standard diagnostic tools. PowerSkill: Strategic Thinking | Cloud Deployment & Automation: Deploy Azure Windows Server VMs and create basic automation steps. PowerSkill: Achievement Orientation | System Recovery & Software troubleshooting: Recover Winows OS and resolve software issues using structured diagnostivs. PowerSkill: Resilience |
 
 ---
 
