@@ -1,16 +1,16 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22roberto-solorzano%22%2C%22name%22%3A%22Roberto%20Solorzano%22%2C%22email%22%3A%22rs.solorzano%40outlook.com%22%2C%22linkedin%22%3A%22https%3A%2F%2Fwww.linkedin.com%2Fin%2Froberto-solorzano-68b02a433%2F%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22Customer-focused%20professional%20actively%20transitioning%20into%20the%20information%20technology%20field%20with%20a%20strong%20commitment%20to%20delivering%20exceptional%20technical%20support%20and%20user%20service.%20Currently%20building%20hands-on%20experience%20in%20hardware%20setup%2C%20software%20troubleshooting%2C%20and%20core%20network%20fundamentals%20while%20working%20toward%20industry%20certifications.%20Brings%20a%20background%20in%20active%20listening%20and%20systematic%20problem%20solving%20to%20quickly%20resolve%20user%20issues%20and%20minimize%20downtime.%20Eager%20to%20leverage%20technical%20knowledge%20and%20strong%20communication%20skills%20to%20excel%20in%20an%20entry%20level%20help%20desk%20role.%20Dedicated%20to%20continuous%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%22Computer%20Hardware%22%2C%22PC%20Assembly%22%2C%22Troubleshooting%22%2C%22Operating%20Systems%22%2C%22BIOS%2FUEFI%22%2C%22Storage%20Devices%22%2C%22Virtualization%22%2C%22Command%20Line%22%2C%22Peripheral%20Devices%22%2C%22Wi-Fi%22%2C%22Firewalls%22%2C%22DNS%22%2C%22DHCP%22%2C%22Microsoft%20Azure%22%5D%2C%22headlines%22%3A%5B%22IT%20Professional%22%2C%22Help%20Desk%20Specialist%22%2C%22ChatGPT%20Prompt%20Engineering%20Examples%20%26%20Use%20Cases%22%2C%22Making%20Difficult%20Conversations%20Meaningful%22%5D%2C%22customHeadlines%22%3A%5B%22ChatGPT%20Prompt%20Engineering%20Examples%20%26%20Use%20Cases%22%2C%22Making%20Difficult%20Conversations%20Meaningful%22%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22CompTIA%20A%2B%20Core2%22%2C%22issuer%22%3A%22%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2Fd5f9c5ef-5744-4b7f-9925-f2a927f10539%23acc.DmSk2sEM%22%2C%22badge%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2Fd5f9c5ef-5744-4b7f-9925-f2a927f10539%23acc.DmSk2sEM%22%7D%2C%7B%22name%22%3A%22CompTIA%20%2B%20Core%201%3A%20Cable%20Types%20and%20onnectors%22%2C%22issuer%22%3A%22%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2Fd33c0013-89ee-43dc-884f-276618a6fc48%23acc.SJBdHTg0%22%2C%22badge%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2Fd33c0013-89ee-43dc-884f-276618a6fc48%23acc.SJBdHTg0%22%7D%2C%7B%22name%22%3A%22CompTIA%20A%2B%20Core%202%3A%20Desktop%2CServer%2C%20%26%20Mobile%20Operating%20Systems%22%2C%22issuer%22%3A%22%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2F9fd6a89d-7972-4f90-85da-fa276668b745%23acc.9CMRX07A%22%2C%22badge%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2F9fd6a89d-7972-4f90-85da-fa276668b745%23acc.9CMRX07A%22%7D%2C%7B%22name%22%3A%22%22%2C%22issuer%22%3A%22%22%2C%22link%22%3A%22%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22%22%2C%22name%22%3A%22%22%2C%22email%22%3A%22%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%7B%22name%22%3A%22Manage%20System%20Configuration%20Settings%22%2C%22desc%22%3A%22Perform%20system%20reset%2C%20manage%20device%20drivers%2C%20configure%20region%20settings%2C%20evaluate%20hardware%20prerequisites%20for%20an%20operating%20system%20update.%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Modify%20a%20virtual%20machine%22%2C%22desc%22%3A%22Increse%20athe%20size%20of%20a%20hard%20disk%20on%20a%20VM%2C%20mount%20an%20exisiting%20hard%20disk%20on%20a%20VM%2C%20modify%20the%20hardware%20on%20a%20Vm%2C%20mount%20a%20RDM%20disk%2C%20added%20an%20additional%20network%20adapter%20to%20a%20VM%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Configure%20Printers%20and%20External%20Devices%22%2C%22desc%22%3A%22create%20a%20local%20printer%20and%20share%20it%20to%20a%20network%2C%20create%20a%20seperate%20pinter%20and%20share%20it%20to%20a%20domain%2C%20access%20the%20pronter%20via%20domain-joined%20VM%2C%20verify%20that%20it%20deployed%20succesfully%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Perform%20Network%20Torubleshooting%22%2C%22desc%22%3A%22Troubleshoot%20various%20network%20communication%20issues%2C%20troubleshoot%20network%20by%20using%20Event%20Viewer%2C%20troubleshoot%20networking%20by%20using%20Windows%20diagnostics%22%2C%22link%22%3A%22%2C%20troubleshoot%20networking%20by%20using%20ping%2C%20identify%20processes%20with%20network%20connectivity%20and%20remote%20the%20Ip%20address%20accesd%20by%20using%20Resource%20Monitor%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Use%20IP%20Addressing%22%2C%22desc%22%3A%22Manage%20the%20IP%20configurations%20of%20Windows%20and%20Linux%2C%20manually%20configure%20IPv4%20settings%20of%20Windows%2010%2C%20configure%20Dynamic%20Host%20Configuration%20Protocol%20(DHCP)%20settings%20on%20windows%2010%2C%20enable%20talternat%20configuration%20for%20the%20static%20IPv4%20address%20of%20Windows%2010%2C%20manually%20configure%20IPv4%20settings%20on%20Linux%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Configure%20%20Wireless%20Accesss%20Point%22%2C%22desc%22%3A%22connect%20to%20a%20wireless%20access%20point%20and%20configure%20its%20system%20settings%2C%20configure%20the%20settings%20for%20the%20wireless%20service%2C%20configure%20wireless%20interface%20settings%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Configure%20Remote%20Access%22%2C%22desc%22%3A%22prepare%20the%20lab%20for%20remote%20management%2C%20connect%20to%20remote%20computers%2C%20by%20using%20Server%20Manager%2C%20install%20and%20configure%20Microsoft%20Remote%20Desktop%2C%20establish%20a%20Remote%20Desktop%20Connection%2C%20share%20access%20to%20local%20folders%20by%20using%20Remote%20Desktop%20connection.%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Cpmgifure%20Remote%20Desktop%20Access%22%2C%22desc%22%3A%22enable%20remote%20desktopaccess%2C%20grant%20remote%20access%20%20to%20a%20non-administrative%20user%2C%20comfigure%20remote%20desktop%20settings%20to%20save%20Windows%20Credentials%2C%20change%20screen%20size%20color%20and%20ratio%20settings%2C%20change%20connection%20speed%20for%20a%20remote%20desktop%20connection%2C%20modify%20remote%20desktop%20server%20authentication%20settings%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
-<img src="https://github.com/roberto-solorzano.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
-# Hi there, I'm Roberto Solorzano
 
-**Roberto Solorzano**
+# Hi there, I'm Your Name
 
-*IT Professional*
+**Your Name**
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-solorzano-68b02a433/) [![GITHUB](https://img.shields.io/badge/GITHUB-%40roberto-solorzano-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roberto-solorzano) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rs.solorzano@outlook.com)
+*ITSA Student*
+
+
 
 </div>
 
@@ -18,27 +18,13 @@
 
 ## Professional Summary
 
-Customer-focused professional actively transitioning into the information technology field with a strong commitment to delivering exceptional technical support and user service. Currently building hands-on experience in hardware setup, software troubleshooting, and core network fundamentals while working toward industry certifications. Brings a background in active listening and systematic problem solving to quickly resolve user issues and minimize downtime. Eager to leverage technical knowledge and strong communication skills to excel in an entry level help desk role. Dedicated to continuous
+*Add your professional summary above to display it here.*
 
 ---
 
 ## Skills Learned
 
-🖥️ Tech Essentials: ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-0969da?style=flat-square) ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-0969da?style=flat-square) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0969da?style=flat-square) ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-0969da?style=flat-square) ![BIOS/UEFI](https://img.shields.io/badge/BIOS%2FUEFI-0969da?style=flat-square) ![Storage Devices](https://img.shields.io/badge/Storage%20Devices-0969da?style=flat-square) ![Virtualization](https://img.shields.io/badge/Virtualization-0969da?style=flat-square) ![Command Line](https://img.shields.io/badge/Command%20Line-0969da?style=flat-square) ![Peripheral Devices](https://img.shields.io/badge/Peripheral%20Devices-0969da?style=flat-square)
-
-🌐 Networking & Security: ![DNS](https://img.shields.io/badge/DNS-0969da?style=flat-square) ![DHCP](https://img.shields.io/badge/DHCP-0969da?style=flat-square) ![Firewalls](https://img.shields.io/badge/Firewalls-0969da?style=flat-square) ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-0969da?style=flat-square)
-
-☁️ Cloud & DevOps: ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0969da?style=flat-square)
-
----
-
-## 🏆 Certifications & Digital Badges
-
-| Certification | Issuer | Verify | Badge |
-|---|---|---|---|
-| CompTIA A+ Core2 |  | [Verify](https://skillsoft.digitalbadges.skillsoft.com/d5f9c5ef-5744-4b7f-9925-f2a927f10539#acc.DmSk2sEM) | ![](https://skillsoft.digitalbadges.skillsoft.com/d5f9c5ef-5744-4b7f-9925-f2a927f10539#acc.DmSk2sEM) |
-| CompTIA + Core 1: Cable Types and onnectors |  | [Verify](https://skillsoft.digitalbadges.skillsoft.com/d33c0013-89ee-43dc-884f-276618a6fc48#acc.SJBdHTg0) | ![](https://skillsoft.digitalbadges.skillsoft.com/d33c0013-89ee-43dc-884f-276618a6fc48#acc.SJBdHTg0) |
-| CompTIA A+ Core 2: Desktop,Server, & Mobile Operating Systems |  | [Verify](https://skillsoft.digitalbadges.skillsoft.com/9fd6a89d-7972-4f90-85da-fa276668b745#acc.9CMRX07A) | ![](https://skillsoft.digitalbadges.skillsoft.com/9fd6a89d-7972-4f90-85da-fa276668b745#acc.9CMRX07A) |
+*Select skills in the builder to display them here.*
 
 ---
 
@@ -47,7 +33,16 @@ Customer-focused professional actively transitioning into the information techno
 <details>
 <summary><strong>Course 1: Networking I</strong></summary>
 
-*No labs added yet.*
+| Lab / Project | Description | Status | Link |
+|---|---|---|---|
+| Manage System Configuration Settings | Perform system reset, manage device drivers, configure region settings, evaluate hardware prerequisites for an operating system update. | ✅ Complete | — |
+| Modify a virtual machine | Increse athe size of a hard disk on a VM, mount an exisiting hard disk on a VM, modify the hardware on a Vm, mount a RDM disk, added an additional network adapter to a VM | ✅ Complete | — |
+| Configure Printers and External Devices | create a local printer and share it to a network, create a seperate pinter and share it to a domain, access the pronter via domain-joined VM, verify that it deployed succesfully | ✅ Complete | — |
+| Perform Network Torubleshooting | Troubleshoot various network communication issues, troubleshoot network by using Event Viewer, troubleshoot networking by using Windows diagnostics | ✅ Complete | [Open](, troubleshoot networking by using ping, identify processes with network connectivity and remote the Ip address accesd by using Resource Monitor) |
+| Use IP Addressing | Manage the IP configurations of Windows and Linux, manually configure IPv4 settings of Windows 10, configure Dynamic Host Configuration Protocol (DHCP) settings on windows 10, enable talternat configuration for the static IPv4 address of Windows 10, manually configure IPv4 settings on Linux | ✅ Complete | — |
+| Configure  Wireless Accesss Point | connect to a wireless access point and configure its system settings, configure the settings for the wireless service, configure wireless interface settings | ✅ Complete | — |
+| Configure Remote Access | prepare the lab for remote management, connect to remote computers, by using Server Manager, install and configure Microsoft Remote Desktop, establish a Remote Desktop Connection, share access to local folders by using Remote Desktop connection. | ✅ Complete | — |
+| Cpmgifure Remote Desktop Access | enable remote desktopaccess, grant remote access  to a non-administrative user, comfigure remote desktop settings to save Windows Credentials, change screen size color and ratio settings, change connection speed for a remote desktop connection, modify remote desktop server authentication settings | ✅ Complete | — |
 
 </details>
 
