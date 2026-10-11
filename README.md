@@ -18,7 +18,7 @@ Roberto Solorzano
 
 ## Professional Summary
 
-*Add your professional summary above to display it here.*
+*Motivated and adaptable IT Professional transitioning into Information Technology with a comprehensive foundation in system administration, networking, and cloud deployment. Currently completing an intensive 7-month IT System Administration program, backed by hands-on experience in PC hardware diagnostics, Windows administrative tools, and automated cloud workflows. Proven ability to navigate ambiguous technical challenges, deploy secure VPN solutions, and resolve complex software and connectivity issues using structured diagnostics. Combines strong technical acumen in virtualized and cloud environments (Azure, VMware, VirtualBox) with an exceptional work ethic, strategic problem-solving skills, and a commitment to operational excellence in fast-paced environments.*
 
 ---
 
